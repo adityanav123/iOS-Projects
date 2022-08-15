@@ -16,7 +16,13 @@ iOS Development Personal Projects
 
     -- Stores memes inside the phone, for faster access
     
-    -- Stores memes according to : Name of the meme, creator of the meme, year of creation of the meme
+    -- Stores memes according to : 
+        
+        - Name of the meme, 
+        
+        - creator of the meme, 
+        
+        - year of creation of the meme
     
     -- is stored in the iphone storage itself, so can be retrieved anytime.
     
